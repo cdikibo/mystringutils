@@ -1,0 +1,2 @@
+# mystringutils
+a go pkg 
